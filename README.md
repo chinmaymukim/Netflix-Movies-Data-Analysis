@@ -1,4 +1,6 @@
-🎬 Netflix Movies Data Analysis
+# 🎬 Netflix Movies Data Analysis
+
+
 Unlocking Insights from Ratings, Genres & Popularity
 
 📊 A comprehensive exploratory data analysis (EDA) project that dives deep into Netflix-like movie data to uncover trends in genres, ratings, popularity, and release years using Python, Pandas, Matplotlib, and Seaborn.
